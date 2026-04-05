@@ -20,8 +20,8 @@ After deployment: 'https://saranyavengateshwaran.github.io/Finance_Dashboard_UI/
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/finvault.git
-cd finvault
+git clone https://saranyavengateshwaran.github.io/Finance_Dashboard_UI/
+cd Finance_Dashboard_UI
 
 # Install dependencies
 npm install
