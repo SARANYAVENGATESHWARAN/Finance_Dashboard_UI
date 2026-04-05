@@ -6,7 +6,7 @@ A clean, interactive finance dashboard built with **React + Vite + Tailwind CSS 
 
 ## 🌐 Live Demo
 
-After deployment: `https://YOUR_USERNAME.github.io/finvault/`
+After deployment: 'https://saranyavengateshwaran.github.io/Finance_Dashboard_UI/'
 
 ---
 
